@@ -1,6 +1,8 @@
 Docblock Parser
 ===============
 
+**Archived**: This library is now part of [worse-reflection](https://github.com/phpactor/worse-relfection) and is not intended to be resused at this point in time.
+
 PHP Docblock parser with the following aims:
 
 - Fast: has to be fast enough for IDE analysis.
